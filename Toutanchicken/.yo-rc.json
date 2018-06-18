@@ -1,0 +1,7 @@
+{
+  "generator-phaser": {
+    "projectName": "toutanchicken",
+    "esVersion": 5,
+    "gameFolder": "boilerplate"
+  }
+}
